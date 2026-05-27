@@ -4,3 +4,6 @@ class hello_world:
 
     def say_hello(self):
         return "Hello, World!"
+    
+    def saygoodbye(self):
+        return "Goodbye, World!"
